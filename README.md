@@ -2325,7 +2325,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![JobsPipe MCP connector score](https://glama.ai/mcp/connectors/dev.jobspipe/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.jobspipe/mcp)
   🔐 - Search live jobs from 30+ boards and ATS feeds, read full postings, and save searches to catch new matches.
 - [jopp](https://jopp.ai) `https://jopp.ai/mcp`
-  [![jopp MCP connector](https://glama.ai/mcp/connectors/app.getjopp/jopp/badges/score.svg)](https://glama.ai/mcp/connectors/app.getjopp/jopp)
+  [![jopp MCP connector](https://glama.ai/mcp/connectors/ai.jopp/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/ai.jopp/jobs)
   🔓 - Search open jobs in Switzerland and Liechtenstein and read job details.
 - [LiveDataLink](https://livedatalink.ai) `https://livedatalink.ai/mcp`
   [![LiveDataLink MCP connector](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink)
